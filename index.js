@@ -13,3 +13,8 @@ function theBeatlesPlay(musicians, instruments){
     }
     return newArray
   }
+  
+  function iLoveTheBeatles(n){
+    var newArray = [];
+    
+  }
